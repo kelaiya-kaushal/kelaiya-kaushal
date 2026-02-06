@@ -2,9 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=250&section=header&text=Kaushal's%20Neural%20Nexus&fontSize=60&animation=twinkling&fontColor=00FFFF&stroke=FF00FF&strokeWidth=2" alt="Profile Banner" />
 </div>
 
-  <h2>🌌 Welcome to My Neural Nexus ! 👨‍🚀</h2>
+  <h2>🌌 Welcome to My Neural Nexus ! </h2>
    <p><i>Hey, I'm <strong>Kaushal</strong> Building the Future, One Line at a Time.
-   <br>Student of | Diploma Computer Engineering | Sem 5 | .</i></p>
+   <br>Student of | Diploma Computer Engineering | Sem 6 | .</i></p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&pause=800&color=00FFDD&center=true&vCenter=true&width=450&lines=Coding+with+Passion;Learning+JavaScript+%26+Flutter;Exploring+New+Tech+Horizons" alt="Typing SVG" />
 </div>
 
@@ -13,7 +13,7 @@
     <p>Hey, I'm <strong>Kaushal</strong> passionate about creating awesome apps and websites learning new topics.!</p>
     <ul>
       <li>🌱 <b>Learning:</b> JavaScript, Flutter, and cutting-edge dev tools</li>
-      <li>💡 <b>Interests:</b> Web & mobile dev, UI/UX, open-source</li>
+      <li>💡 <b>Interests:</b> Web & mobile dev, open-source</li>
       <li>⚡ <b>Fun Fact:</b> My code is as cool as I am! 😎</li>
     </ul>
   </div>
