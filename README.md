@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=220&section=header&text=Kaushal%20Kelaiya&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:203A43,200:2C5364&height=220&section=header&text=Kaushal%20Kelaiya&fontSize=48&fontColor=ffffff&animation=fadeIn" />
 
 <h2>👋 Hi, I'm Kaushal</h2>
 
 <p>
 💻 Diploma Computer Engineering Student <br/>
-🚀 Web & Mobile Developer | JavaScript • Flutter • PHP
+🚀 Full Stack & Mobile Developer
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00C9FF&center=true&vCenter=true&width=500&lines=Building+Real+World+Projects;Learning+Every+Day;Future+Software+Engineer;Open+Source+Enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Building+Real+Projects;Learning+Every+Day;JavaScript+%7C+Flutter+%7C+PHP;Future+Software+Engineer" />
 
 </div>
 
@@ -19,9 +19,9 @@
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:Kelaiyakaushal99@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-id)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?logo=github&logoColor=white)](https://github.com/kelaiya-kaushal)
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:Kelaiyakaushal99@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/your-linkedin-id)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kelaiya-kaushal)
 
 </div>
 
@@ -30,26 +30,63 @@
 ## 👨‍💻 About Me
 
 - 🎓 Diploma in Computer Engineering (Semester 6)
-- 🌱 Currently learning: JavaScript, Flutter, Backend Development
-- 💡 Interested in: Full Stack & Mobile App Development
+- 🌱 Currently learning: JavaScript, React, Flutter, Node.js
+- 💡 Interested in: Full Stack & Mobile Development
 - ⚡ Goal: Become a Professional Software Engineer
 
-I enjoy building real-world projects and improving my skills every single day.
+I focus on building practical projects and improving my skills daily.
 
 ---
 
 ## 🛠️ Tech Stack
 
+### 🚀 Languages
 <div align="center">
 
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php)
-![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter)
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB)
+![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=777BB4)
+
+</div>
+
+---
+
+### ⚙️ Frontend & Frameworks
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC)
+
+</div>
+
+---
+
+### 🔧 Backend & Databases
+<div align="center">
+
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933)
+![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248)
+
+</div>
+
+---
+
+### 📱 Mobile & Tools
+<div align="center">
+
+![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=02569B)
+![Android Studio](https://img.shields.io/badge/Android_Studio-000000?style=for-the-badge&logo=androidstudio&logoColor=3DDC84)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 
 </div>
 
@@ -59,9 +96,9 @@ I enjoy building real-world projects and improving my skills every single day.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kelaiya-kaushal&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=kelaiya-kaushal&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelaiya-kaushal&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelaiya-kaushal&layout=compact&theme=github_dark&hide_border=true" width="40%" />
 
 </div>
 
@@ -69,7 +106,7 @@ I enjoy building real-world projects and improving my skills every single day.
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kelaiya-kaushal&theme=tokyonight&hide_border=true" width="70%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kelaiya-kaushal&theme=github-dark&hide_border=true" width="70%" />
 
 </div>
 
@@ -78,47 +115,47 @@ I enjoy building real-world projects and improving my skills every single day.
 ## 🚀 Featured Projects
 
 ### 🛒 E-Commerce Website (PHP + MySQL)
-- Login / Register System
-- Admin Panel
-- Product Management
+- Authentication System
+- Admin Dashboard
+- Cart & Orders
 - Secure Sessions
 
-### 📱 Flutter Mobile Application
+### 📱 Flutter Mobile App
 - Modern UI
 - API Integration
 - Authentication
-- Performance Optimized
+- Responsive Design
 
-### 🔐 Secure Login System
-- PHP + MySQL
+### 🔐 Login System
 - Validation
-- Session Handling
+- Encryption
+- Session Management
 - Security Best Practices
 
 ### 🌐 Portfolio Website
-- Responsive Design
+- Responsive
 - SEO Optimized
-- Fast Loading
+- Fast Performance
 
-➡️ More projects coming soon...
+➡️ More coming soon...
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=kelaiya-kaushal&theme=tokyonight&no-frame=true&margin-w=8&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=kelaiya-kaushal&theme=darkhub&no-frame=true&column=6" />
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kelaiya-kaushal&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kelaiya-kaushal&theme=github-compact&hide_border=true" />
 
 </div>
 
@@ -128,7 +165,7 @@ I enjoy building real-world projects and improving my skills every single day.
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 
 </div>
 
@@ -136,9 +173,9 @@ I enjoy building real-world projects and improving my skills every single day.
 
 <div align="center">
 
-✨ Thanks for visiting my profile!  
-Let’s connect and build amazing things together 🚀
+✨ Thanks for visiting!  
+Let’s build something awesome together 🚀
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:203A43,200:2C5364&height=120&section=footer" />
 
 </div>
