@@ -28,7 +28,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 I have completed my **Diploma in Computer Engineering** and am currently pursuing **B.Tech in Computer Engineering, Semester 3, at Marwadi University, Rajkot**.
+🎓 I have completed my **Diploma in Computer Engineering** and am currently pursuing **B.Tech in Computer Engineering, Semester 3.**.
 
 I enjoy transforming ideas into practical software projects and continuously improving my development skills.
 
